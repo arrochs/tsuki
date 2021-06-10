@@ -1,0 +1,40 @@
+body {
+
+    text-align: center;
+
+    background-image: url(https://bit.ly/3wenvcG);
+    /* remover repetição */
+    background-repeat: no-repeat;
+    /* posicionamento */
+    background-position: center center;
+    /* Altura do body */
+    height: 100vh;
+    /* Tamanho da Imagem */
+    background-size: 400px;
+    /* Fixar a imagem de fundo */
+    background-attachment: fixed;
+    /* Cor de fundo */
+    background-color: black;
+}
+
+/* personalizar o título */
+h1 {
+    color: #FF0000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* personalizar os subtítulos */
+#green {
+    color: green;
+    font-style: italic;
+}
+
+#blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.colors {
+    color: darkblue;
+    font-size: 24px;
+}
