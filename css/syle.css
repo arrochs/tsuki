@@ -17,11 +17,6 @@ body {
     background-color: black;
 }
 
-/* personalizar o título */
-h1 {
-    color: #FF0000;
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 /* personalizar os subtítulos */
 #green {
@@ -35,6 +30,6 @@ h1 {
 }
 
 .colors {
-    color: darkblue;
+    color:orange;
     font-size: 24px;
 }
